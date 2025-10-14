@@ -25,13 +25,45 @@ It combines clean data visualization, DAX-powered calculations, and user-friendl
 ⦁	Analysts can explore seasonal patterns and quarterly comparisons to forecast growth.
 ⦁	Decision-makers can use the dashboard to optimize strategy and resource allocation.
 
-<img width="1484" height="830" alt="Screenshot 2025-10-15 031259" src="https://github.com/user-attachments/assets/5dcfa562-c6e4-4baa-acb6-723536bdeb34" />
 
+
+
+🕐 Q1 (January – March)
+
+⦁	Represents the foundation of the fiscal year, showing post-holiday recovery and early growth.
+⦁	Highlights initial sales performance, customer acquisition, and regional demand.
+⦁	Helps set realistic KPIs and sales goals for upcoming quarters.
+<img width="1484" height="830" alt="Screenshot 2025-10-15 031259" src="https://github.com/user-attachments/assets/5dcfa562-c6e4-4baa-acb6-723536bdeb34" />
+🕑 Q2 (April – June)
+
+⦁	Demonstrates steady improvement in revenue and customer retention.
+⦁	Identifies seasonal demand and early success of marketing campaigns.
+⦁	Useful for tracking progress toward mid-year business targets.
 <img width="1487" height="834" alt="Screenshot 2025-10-15 031312" src="https://github.com/user-attachments/assets/2bba95dc-5d27-49cb-bb6c-e6752b5e5c16" />
+🕒 Q3 (July – September)
+
+⦁	Marks a peak performance period with high conversion rates and strong product sales.
+⦁	Provides comparison of current vs. previous quarter performance using DAX-based visuals.
+⦁	Helps analyze operational performance and product inventory efficiency.
+
 <img width="1482" height="835" alt="Screenshot 2025-10-15 031322" src="https://github.com/user-attachments/assets/a30d07b1-fbdb-4820-8dcd-66a33f561557" />
+🕓 Q4 (October – December)
+
+⦁	Displays holiday season sales spikes and overall annual summary.
+⦁	Highlights top-performing categories and regional demand shifts.
+⦁	Offers complete yearly performance insights to guide next year’s planning.
+
 <img width="1485" height="833" alt="Screenshot 2025-10-15 031336" src="https://github.com/user-attachments/assets/fbe46178-aab6-4a0e-9b4d-ef6f27d6a3e5" />
 
+🧰 Tools & Technologies
 
+⦁	Power BI: Data visualization and dashboard creation
+⦁	Excel: Data cleaning and preprocessing
+⦁	DAX (Data Analysis Expressions): Custom measures and KPIs
+⦁	Power BI Service: Online publishing and real-time sharing
+
+🔗 Live Dashboard
+[https://app.powerbi.com/view?r=eyJrIjoiYWZkZGQxMDgtODkyMy00OThmLWFhOGYtOTkzMTNiYWQ1YWMyIiwidCI6ImVkY2ZiMTUwLTMwOWEtNGIwOS04YzM4LWMyZmVhOGRjNzA4MSIsImMiOjl9]
 
 📬 Contact
 Name: Muhammad Arsal(Data Analyst)
