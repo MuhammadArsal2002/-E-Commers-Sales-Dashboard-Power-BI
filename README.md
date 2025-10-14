@@ -1,2 +1,4 @@
 # E-Commers-Sales-Dashboard-Power-BI
-Interactive Power BI dashboard analyzing e-commerce sales, profit, and customer insights. Includes DAX-based KPIs, dynamic filters, and clean visuals for real-time business analysis. Built with Power BI and Excel to support data-driven decision-making.
+
+
+<img width="1487" height="835" alt="Screenshot 2025-10-15 031237" src="https://github.com/user-attachments/assets/5e636bf5-c269-4943-865a-d949eaddbc6a" />
